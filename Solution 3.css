@@ -1,0 +1,16 @@
+.firstName {
+    background-color:aqua
+    }
+    .lastName {
+    background-color:bisque
+    }
+    .email {
+    background-color: yellow;
+    }
+    #terms:checked {
+    /* This is the property used to color checkbox checked state */
+    accent-color: violet;
+    }
+    button {
+    opacity: 100%;
+    }
